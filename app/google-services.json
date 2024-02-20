@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322618197602",
+    "project_id": "manavataforworld",
+    "storage_bucket": "manavataforworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322618197602:android:474d3a28f2d39aff2ef33b",
+        "android_client_info": {
+          "package_name": "com.example.manavataforworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-1v6bamEBBR6uvk1f-kcCvfUz2aNoL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
