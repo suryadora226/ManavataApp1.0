@@ -9,11 +9,11 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/app_icon"
+        android:icon="@drawable/manavatalogo"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/app_icon"
+        android:roundIcon="@drawable/manavatalogo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ManavataForWorld"
+        android:theme="@style/Theme.Manavata"
         tools:targetApi="31">
         <activity
             android:name=".LoginActivity"
